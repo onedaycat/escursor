@@ -1,0 +1,2 @@
+# escursor
+Elasticsearch cursor
